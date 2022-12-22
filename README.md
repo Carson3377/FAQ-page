@@ -2,7 +2,7 @@ JavaScript Project --
 
 # FAQ page
  
-In this JavaScript project, we're going to create a Frequently Asked Questions (FAQs) page which is necessary in most websites to answer users' doubting questions and are the chosen ones. --FAQs also educates users about a business and drives traffic to the website through organic search results.--
+In this JavaScript project, we're going to create a Frequently Asked Questions (FAQs) page which is necessary in most websites to answer users' doubting questions and are the chosen ones. --FAQs also educates users about a business and drives traffic to the website through organic search results.-- [FAQ page](https://carson3377.github.io/FAQ-page/FAQ.html)
 
 Credit: FreeCodeCamp.org
 
